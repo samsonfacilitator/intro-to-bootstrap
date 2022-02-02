@@ -2,3 +2,9 @@
     background-color: aqua !important;
     color: black !important;
 }
+
+#first-alert {
+    color: purple;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
